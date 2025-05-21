@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chirag Bikram Malla Thakuri
+# 👋 Hi, I’m Chirag!
 
 🚀 Passionate about building efficient and scalable web applications  
 💡 Exploring cloud solutions, enterprise platforms, and workflow automation  
