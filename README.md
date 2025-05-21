@@ -2,7 +2,7 @@
 
 🚀 Passionate about building efficient and scalable web applications  
 💡 Exploring cloud solutions, enterprise platforms, and workflow automation  
-🌱 Currently honing my skills in Full-Stack Development, Azure, and microservices  
+🌱 Currently honing my skills in Backend Development, Azure, SAP, Dynamics 365 and microservices  
 📊 Leveraging Power BI and SQL for insightful data visualization  
 🎸 Occasionally diving into musical improvisation for creative expression  
 
